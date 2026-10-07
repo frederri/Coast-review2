@@ -494,5 +494,67 @@
    "median": 12837,
    "n": 5
   }
+ },
+ "grd_200": {
+  "first load": {
+   "median": 12403,
+   "n": 5
+  },
+  "New coast": {
+   "median": 11771,
+   "n": 5
+  },
+  "Random dots (Tilt)": {
+   "median": 11916,
+   "n": 5
+  },
+  "Tilt drag preview frame": {
+   "median": 31.1,
+   "n": 30
+  },
+  "release dot (Tilt)": {
+   "median": 11917,
+   "n": 5
+  },
+  "switch to Points": {
+   "median": 11849,
+   "n": 5
+  },
+  "Random dots (Points)": {
+   "median": 12252.5,
+   "n": 6
+  },
+  "release dot (Points)": {
+   "median": 11984,
+   "n": 5
+  },
+  "switch to Tilt": {
+   "median": 11884,
+   "n": 5
+  },
+  "mode: Peninsula": {
+   "median": 5235,
+   "n": 5
+  },
+  "mode: Inland sea": {
+   "median": 5336,
+   "n": 5
+  },
+  "mode: Coast": {
+   "median": 12320,
+   "n": 5
+  },
+  "switch character to this": {
+   "median": 12051,
+   "n": 5
+  },
+  "change width to this": {
+   "median": 11720,
+   "n": 5
+  },
+  "window resize (incl. 150 ms debounce)": {
+   "median": 11504,
+   "n": 5
+  }
  }
 }
