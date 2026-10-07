@@ -1,0 +1,4 @@
+coast_generator2_mixed.html div 500 [{"total":4790,"longestFreeze":4731},{"total":4839,"longestFreeze":4808},{"total":4822,"longestFreeze":4776}]
+coast_generator2_mixed.html mix 500 [{"total":15246,"longestFreeze":15182},{"total":14531,"longestFreeze":14512},{"total":14418,"longestFreeze":14387}]
+coast_generator2_fast.html div 500 [{"total":4636,"longestFreeze":46},{"total":4629,"longestFreeze":45},{"total":4482,"longestFreeze":60}]
+coast_generator2_fast.html mix 500 [{"total":14730,"longestFreeze":42},{"total":14991,"longestFreeze":92},{"total":13968,"longestFreeze":50}]

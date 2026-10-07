@@ -13,7 +13,9 @@ for (const chr of ['div', 'jag', 'grd', 'mix']){
     for (const km of [1000, 500, 200]){
       const x = A[`${chr}_${km}`] && A[`${chr}_${km}`][a], y = B[`${chr}_${km}`] && B[`${chr}_${km}`][a];
       if (!x || !y){ cells.push('–', '–', '–'); continue; }
-      cells.push(f(x.median), f(y.median), (x.median/y.median).toFixed(2) + '×');
+      // (after: median, and the first, uncached attempt where the median is a kept coast)
+      const first = y.samples && y.samples[0], showFirst = first && first > 3*y.median && a !== 'first load';
+      cells.push(f(x.median), f(y.median) + (showFirst ? ` (1st: ${f(first)})` : ''), (x.median/y.median).toFixed(2) + '×');
     }
     console.log(`| ${a} | ${cells.join(' | ')} |`);
   }

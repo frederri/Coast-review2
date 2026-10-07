@@ -1,0 +1,72 @@
+== orig mix
+#seed=42&km=1000&chr=mix&mode=plain&ctrl=tilt&l=0&r=0 total 15589
+   6023  38.6% gradeMix@4940 // -- the work --
+   1375   8.8% generate@2020 // ---- 2. the landscape cut into it ----
+   1232   7.9% stage2-setup
+    876   5.6% generate@1668 // -- the sea's work: its front through the rock -
+    629   4.0% generate@2978 // ---- the shore's own unevenness below the lands
+    516   3.3% front
+    491   3.2% generate@1017 // ---- the handles as a tilt of the ground ----
+    477   3.1% generate@645 // -- the rock: strata of hard and soft along a st
+    475   3.0% generate@2766 // ---- the sea floor ----
+    350   2.2% generate@796 // -- the mosaic: nested fault blocks in the strat
+== orig grd
+#seed=42&km=1000&chr=grd&mode=plain&ctrl=tilt&l=0&r=0 total 11691
+   4405  37.7% gradeShore@3789 // -- the work, round by round: between rounds the
+   1217  10.4% stage2-setup
+   1210  10.3% generate@2020 // ---- 2. the landscape cut into it ----
+    818   7.0% generate@1668 // -- the sea's work: its front through the rock -
+    604   5.2% generate@2766 // ---- the sea floor ----
+    475   4.1% generate@645 // -- the rock: strata of hard and soft along a st
+    451   3.9% generate@1017 // ---- the handles as a tilt of the ground ----
+    433   3.7% front
+    332   2.8% generate@796 // -- the mosaic: nested fault blocks in the strat
+    270   2.3% generate@1042 // ---- the provinces: what kind of coast each str
+== orig div
+#seed=42&km=1000&chr=div&mode=plain&ctrl=tilt&l=0&r=0 total 4584
+    623  13.6% coastWork@5347 // ---- the equalised coast: the coastal cells of 
+    594  13.0% generate@2020 // ---- 2. the landscape cut into it ----
+    353   7.7% generate@1668 // -- the sea's work: its front through the rock -
+    330   7.2% stage2-setup
+    254   5.5% front
+    252   5.5% generate@2766 // ---- the sea floor ----
+    248   5.4% generate@2978 // ---- the shore's own unevenness below the lands
+    237   5.2% generate@645 // -- the rock: strata of hard and soft along a st
+    202   4.4% generate@1017 // ---- the handles as a tilt of the ground ----
+    190   4.1% generate@2258 // ---- a glacial lowland: on a Divergent coast th
+== fast mix
+#seed=42&km=1000&chr=mix&mode=plain&ctrl=tilt&l=0&r=0 total 14442
+   5256  36.4% gradeMix@5000 // -- the work --
+   1233   8.5% stage2-setup
+    980   6.8% generate@2074 // ---- 2. the landscape cut into it ----
+    866   6.0% generate@1722 // -- the sea's work: its front through the rock -
+    613   4.2% generate@3032 // ---- the shore's own unevenness below the lands
+    575   4.0% generate@2820 // ---- the sea floor ----
+    462   3.2% generate@1071 // ---- the handles as a tilt of the ground ----
+    458   3.2% front
+    393   2.7% generate@699 // -- the rock: strata of hard and soft along a st
+    351   2.4% generate@850 // -- the mosaic: nested fault blocks in the strat
+== fast grd
+#seed=42&km=1000&chr=grd&mode=plain&ctrl=tilt&l=0&r=0 total 11290
+   4092  36.2% gradeShore@3845 // -- the work, round by round: between rounds the
+   1234  10.9% stage2-setup
+   1180  10.4% generate@2074 // ---- 2. the landscape cut into it ----
+    817   7.2% generate@1722 // -- the sea's work: its front through the rock -
+    548   4.9% generate@2820 // ---- the sea floor ----
+    460   4.1% front
+    454   4.0% generate@699 // -- the rock: strata of hard and soft along a st
+    426   3.8% generate@1071 // ---- the handles as a tilt of the ground ----
+    313   2.8% generate@850 // -- the mosaic: nested fault blocks in the strat
+    292   2.6% generate@1998 // ---- the handles: the broad coast is shifted do
+== fast div
+#seed=42&km=1000&chr=div&mode=plain&ctrl=tilt&l=0&r=0 total 4323
+    589  13.6% generate@2074 // ---- 2. the landscape cut into it ----
+    523  12.1% coastWork@5407 // ---- the equalised coast: the coastal cells of 
+    342   7.9% generate@1722 // -- the sea's work: its front through the rock -
+    311   7.2% generate@2820 // ---- the sea floor ----
+    274   6.3% front
+    273   6.3% stage2-setup
+    235   5.4% generate@699 // -- the rock: strata of hard and soft along a st
+    226   5.2% generate@3032 // ---- the shore's own unevenness below the lands
+    171   3.9% generate@850 // -- the mosaic: nested fault blocks in the strat
+    163   3.8% generate@1071 // ---- the handles as a tilt of the ground ----

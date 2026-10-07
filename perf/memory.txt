@@ -1,0 +1,4 @@
+coast_generator2_mixed.html div 500 after N coasts: [N, renderer RSS MB, main JS heap MB]
+[[5,496,3],[10,489,4],[15,477,4],[20,483,4],[25,506,4],[30,490,4],[35,495,4],[40,476,3],[45,502,4],[50,477,4]]
+coast_generator2_fast.html div 500 after N coasts: [N, renderer RSS MB, main JS heap MB]
+[[5,553,2],[10,577,2],[15,605,2],[20,603,2],[25,596,2],[30,622,2],[35,599,2],[40,600,2],[45,620,2],[50,615,2]]

@@ -556,5 +556,191 @@
    "median": 11504,
    "n": 5
   }
+ },
+ "mix_1000": {
+  "first load": {
+   "median": 17343,
+   "n": 5
+  },
+  "New coast": {
+   "median": 15043,
+   "n": 5
+  },
+  "Random dots (Tilt)": {
+   "median": 13977,
+   "n": 5
+  },
+  "Tilt drag preview frame": {
+   "median": 28.6,
+   "n": 30
+  },
+  "release dot (Tilt)": {
+   "median": 14225,
+   "n": 5
+  },
+  "switch to Points": {
+   "median": 13794,
+   "n": 5
+  },
+  "Random dots (Points)": {
+   "median": 14902,
+   "n": 6
+  },
+  "release dot (Points)": {
+   "median": 14957,
+   "n": 5
+  },
+  "switch to Tilt": {
+   "median": 13467,
+   "n": 5
+  },
+  "mode: Peninsula": {
+   "median": 4938,
+   "n": 5
+  },
+  "mode: Inland sea": {
+   "median": 5667,
+   "n": 5
+  },
+  "mode: Coast": {
+   "median": 14514,
+   "n": 5
+  },
+  "switch character to this": {
+   "median": 13582,
+   "n": 5
+  },
+  "change width to this": {
+   "median": 13685,
+   "n": 5
+  },
+  "window resize (incl. 150 ms debounce)": {
+   "median": 13771,
+   "n": 5
+  }
+ },
+ "mix_500": {
+  "first load": {
+   "median": 15048,
+   "n": 5
+  },
+  "New coast": {
+   "median": 14133,
+   "n": 5
+  },
+  "Random dots (Tilt)": {
+   "median": 15287,
+   "n": 5
+  },
+  "Tilt drag preview frame": {
+   "median": 28.5,
+   "n": 30
+  },
+  "release dot (Tilt)": {
+   "median": 15777,
+   "n": 5
+  },
+  "switch to Points": {
+   "median": 15827,
+   "n": 5
+  },
+  "Random dots (Points)": {
+   "median": 15403,
+   "n": 6
+  },
+  "release dot (Points)": {
+   "median": 15517,
+   "n": 5
+  },
+  "switch to Tilt": {
+   "median": 15266,
+   "n": 5
+  },
+  "mode: Peninsula": {
+   "median": 4770,
+   "n": 5
+  },
+  "mode: Inland sea": {
+   "median": 5412,
+   "n": 5
+  },
+  "mode: Coast": {
+   "median": 15977,
+   "n": 5
+  },
+  "switch character to this": {
+   "median": 16043,
+   "n": 5
+  },
+  "change width to this": {
+   "median": 15838,
+   "n": 5
+  },
+  "window resize (incl. 150 ms debounce)": {
+   "median": 15184,
+   "n": 5
+  }
+ },
+ "mix_200": {
+  "first load": {
+   "median": 15497,
+   "n": 5
+  },
+  "New coast": {
+   "median": 15327,
+   "n": 5
+  },
+  "Random dots (Tilt)": {
+   "median": 18137,
+   "n": 5
+  },
+  "Tilt drag preview frame": {
+   "median": 28.8,
+   "n": 30
+  },
+  "release dot (Tilt)": {
+   "median": 19951,
+   "n": 5
+  },
+  "switch to Points": {
+   "median": 18367,
+   "n": 5
+  },
+  "Random dots (Points)": {
+   "median": 17950.5,
+   "n": 6
+  },
+  "release dot (Points)": {
+   "median": 18951,
+   "n": 5
+  },
+  "switch to Tilt": {
+   "median": 18368,
+   "n": 5
+  },
+  "mode: Peninsula": {
+   "median": 4614,
+   "n": 5
+  },
+  "mode: Inland sea": {
+   "median": 5327,
+   "n": 5
+  },
+  "mode: Coast": {
+   "median": 19583,
+   "n": 5
+  },
+  "switch character to this": {
+   "median": 19789,
+   "n": 5
+  },
+  "change width to this": {
+   "median": 19288,
+   "n": 5
+  },
+  "window resize (incl. 150 ms debounce)": {
+   "median": 19358,
+   "n": 5
+  }
  }
 }
