@@ -1,0 +1,90 @@
+#seed=42&km=1000&chr=mix&mode=plain&ctrl=tilt&l=0&r=0 wall 16725 ms, sampled 16731 ms
+  3757 ms  22.5% evolve:4783
+  2895 ms  17.3% generate:433
+  2889 ms  17.3% regen:6687
+  1058 ms   6.3% sdfRelax:352
+   802 ms   4.8% blurHold:199
+   541 ms   3.2% (garbage collector):0
+   515 ms   3.1% sdf:358
+   398 ms   2.4% gradeMix:3954
+   389 ms   2.3% fbm:129
+   318 ms   1.9% coarse:473
+   306 ms   1.8% seal:4450
+   280 ms   1.7% wearOf:4369
+   212 ms   1.3% sstep:171
+   192 ms   1.1% pflood:308
+   184 ms   1.1% flood:4245
+   178 ms   1.1% at:3961
+   160 ms   1.0% read:4807
+   154 ms   0.9% local:4800
+   106 ms   0.6% buildZ:953
+    92 ms   0.5% (program):0
+    81 ms   0.5% along:628
+    74 ms   0.4% beltAt:750
+    73 ms   0.4% grainOne:266
+    73 ms   0.4% hsh:91
+    64 ms   0.4% av:4365
+    64 ms   0.4% grainAt:275
+    57 ms   0.3% hmix:107
+    50 ms   0.3% clean:4263
+
+#seed=42&km=1000&chr=grd&mode=plain&ctrl=tilt&l=0&r=0 wall 12781 ms, sampled 12785 ms
+  2457 ms  19.2% generate:433
+  2214 ms  17.3% regen:6687
+  2135 ms  16.7% evolve:3604
+  1282 ms  10.0% sdfRelax:352
+   649 ms   5.1% blurHold:199
+   641 ms   5.0% sdf:358
+   451 ms   3.5% (garbage collector):0
+   402 ms   3.1% coarse:473
+   253 ms   2.0% fbm:129
+   211 ms   1.7% pflood:308
+   198 ms   1.5% seal:3506
+   188 ms   1.5% sstep:171
+   134 ms   1.0% buildZ:953
+   132 ms   1.0% flood:3476
+   127 ms   1.0% gradeShore:3364
+   109 ms   0.8% local:3623
+    86 ms   0.7% along:628
+    81 ms   0.6% hsh:91
+    79 ms   0.6% (program):0
+    75 ms   0.6% beltAt:750
+    71 ms   0.6% read:3630
+    65 ms   0.5% grainAt:275
+    51 ms   0.4% find:815
+    50 ms   0.4% grainOne:266
+    47 ms   0.4% clean:3488
+    41 ms   0.3% exposure:1685
+    40 ms   0.3% at:817
+    37 ms   0.3% noise2:112
+
+#seed=42&km=1000&chr=div&mode=plain&ctrl=tilt&l=0&r=0 wall 5034 ms, sampled 5038 ms
+  1173 ms  23.3% regen:6687
+  1162 ms  23.1% generate:433
+   311 ms   6.2% sdfRelax:352
+   295 ms   5.9% blurHold:199
+   251 ms   5.0% fbm:129
+   218 ms   4.3% (garbage collector):0
+   213 ms   4.2% sdf:358
+   174 ms   3.5% coastWork:5244
+   149 ms   3.0% coarse:473
+    99 ms   2.0% sstep:171
+    96 ms   1.9% OFF:432
+    83 ms   1.7% along:628
+    81 ms   1.6% pflood:308
+    59 ms   1.2% (program):0
+    56 ms   1.1% buildZ:953
+    48 ms   0.9% grainAt:275
+    40 ms   0.8% grainOne:266
+    39 ms   0.8% hsh:91
+    38 ms   0.8% noise2:112
+    32 ms   0.6% hmix:107
+    32 ms   0.6% paint:6863
+    29 ms   0.6% remap:6738
+    28 ms   0.5% cellModel:5373
+    26 ms   0.5% beltAt:750
+    24 ms   0.5% find:815
+    22 ms   0.4% at:817
+    21 ms   0.4% fbm1:155
+    20 ms   0.4% (idle):0
+
