@@ -1,0 +1,44 @@
+r3_before_1000km_seed11_points-edgeL.png                     rough=RRpSSRRSSSpRpRRRSSRp S0.35 p0.20 R0.45 mean=1.43 islands=7 enclosedWater=0
+r3_before_1000km_seed11_tilt.png                             rough=RRSSSRRRSSpRppRRSSpp S0.35 p0.25 R0.40 mean=1.40 islands=3 enclosedWater=0
+r3_before_1000km_seed137_points-high.png                     rough=RSRppRSpSpSRSRSppSSR S0.40 p0.30 R0.30 mean=1.34 islands=9 enclosedWater=0
+r3_before_1000km_seed137_tilt.png                            rough=SSppSpppRRpSppRppSRp S0.25 p0.55 R0.20 mean=1.36 islands=4 enclosedWater=0
+r3_before_1000km_seed2024_points-low.png                     rough=pSpRSSSSSpRSSRRRRRRR S0.40 p0.15 R0.45 mean=1.47 islands=9 enclosedWater=0
+r3_before_1000km_seed2024_tilt.png                           rough=SSpppSpRRRSSpRRRppRR S0.25 p0.35 R0.40 mean=1.42 islands=5 enclosedWater=0
+r3_before_1000km_seed42_points-centre.png                    rough=SRppSSRSRSppSSSSppSp S0.50 p0.35 R0.15 mean=1.23 islands=4 enclosedWater=0
+r3_before_1000km_seed42_tilt.png                             rough=RRSppppSRpSSpSSSpSSR S0.45 p0.35 R0.20 mean=1.33 islands=7 enclosedWater=0
+r3_before_1000km_seed5309_points-edgeR.png                   rough=RRRppRpSRpRSSSpSpRRR S0.25 p0.30 R0.45 mean=1.42 islands=6 enclosedWater=0
+r3_before_1000km_seed5309_tilt.png                           rough=RpSRpSSSppSSpSpRRppR S0.35 p0.40 R0.25 mean=1.37 islands=6 enclosedWater=0
+r3_before_1000km_seed90210_points-midHighL.png               rough=RpRRSppRSSSSRpRRpSSR S0.35 p0.25 R0.40 mean=1.49 islands=8 enclosedWater=0
+r3_before_1000km_seed90210_tilt.png                          rough=RppRRSSSRSSSSppRRRpR S0.35 p0.25 R0.40 mean=1.44 islands=7 enclosedWater=0
+r3_before_200km_seed11_points-edgeL.png                      rough=RSRpppRSSSSSSRRRRRRp S0.35 p0.20 R0.45 mean=1.49 islands=18 enclosedWater=0
+r3_before_200km_seed11_tilt.png                              rough=SSRRppRRSSSSSppRRRSp S0.40 p0.25 R0.35 mean=1.38 islands=20 enclosedWater=0
+r3_before_200km_seed137_points-high.png                      rough=SSRSpRSpRRRpSpRRRSSp S0.35 p0.25 R0.40 mean=1.48 islands=6 enclosedWater=0
+r3_before_200km_seed137_tilt.png                             rough=SSSpSSpRRpRSRRpRpSpp S0.35 p0.35 R0.30 mean=1.46 islands=9 enclosedWater=0
+r3_before_200km_seed2024_points-low.png                      rough=RRRRSRpRppRppRpSpRSp S0.15 p0.40 R0.45 mean=1.78 islands=9 enclosedWater=2 sizes=[58, 303]
+r3_before_200km_seed2024_tilt.png                            rough=RRRpRSppSRpRpRRRRppp S0.10 p0.40 R0.50 mean=1.70 islands=8 enclosedWater=2 sizes=[170, 4784]
+r3_before_200km_seed42_points-centre.png                     rough=SRppRpSppppSppSSSRpR S0.30 p0.50 R0.20 mean=1.34 islands=6 enclosedWater=0
+r3_before_200km_seed42_tilt.png                              rough=ppSSSSSSSSppRRSSpRRR S0.50 p0.25 R0.25 mean=1.33 islands=3 enclosedWater=0
+r3_before_200km_seed5309_points-edgeR.png                    rough=pRRRRSSSSpRSpSppSRRR S0.35 p0.25 R0.40 mean=1.47 islands=10 enclosedWater=0
+r3_before_200km_seed5309_tilt.png                            rough=RRRRSSpSSppRpRSppSpp S0.30 p0.40 R0.30 mean=1.48 islands=6 enclosedWater=0
+r3_before_200km_seed90210_points-midHighL.png                rough=RSRRRRRRRSpRpRSSSpSp S0.30 p0.20 R0.50 mean=1.44 islands=15 enclosedWater=0
+r3_before_200km_seed90210_tilt.png                           rough=RSppSSpRRppSSRRSpRSR S0.35 p0.30 R0.35 mean=1.32 islands=2 enclosedWater=0
+r3_before_500km_seed11_points-edgeL.png                      rough=pRRRRSpppSpSSpRSSSSp S0.40 p0.35 R0.25 mean=1.55 islands=4 enclosedWater=1 sizes=[6]
+r3_before_500km_seed11_tilt.png                              rough=RpRpRSpppRSSSRSpSSSR S0.40 p0.30 R0.30 mean=1.37 islands=7 enclosedWater=0
+r3_before_500km_seed137_points-high.png                      rough=RppSSSpRpRSRRRRSSSpp S0.35 p0.30 R0.35 mean=1.37 islands=4 enclosedWater=0
+r3_before_500km_seed137_tilt.png                             rough=ppRSSSSSSpSRSppRSRSp S0.50 p0.30 R0.20 mean=1.23 islands=5 enclosedWater=0
+r3_before_500km_seed2024_points-low.png                      rough=RppRRpSpRppRSSRSRpRp S0.20 p0.40 R0.40 mean=1.59 islands=5 enclosedWater=0
+r3_before_500km_seed2024_tilt.png                            rough=RSSSpRRRRpSRpppRSSpR S0.30 p0.30 R0.40 mean=1.51 islands=4 enclosedWater=0
+r3_before_500km_seed42_points-centre.png                     rough=pSpSRSSSSSSSppRSRRRp S0.50 p0.25 R0.25 mean=1.25 islands=11 enclosedWater=0
+r3_before_500km_seed42_tilt.png                              rough=RSSpRSSSSSSSppRSppRp S0.50 p0.30 R0.20 mean=1.23 islands=5 enclosedWater=0
+r3_before_500km_seed5309_points-edgeR.png                    rough=pSSSSSRRSSpRpRpSSRpp S0.45 p0.30 R0.25 mean=1.32 islands=10 enclosedWater=0
+r3_before_500km_seed5309_tilt.png                            rough=ppSpRRRRpRpRRRRSRpRR S0.10 p0.30 R0.60 mean=1.73 islands=9 enclosedWater=0
+r3_before_500km_seed90210_points-midHighL.png                rough=pSSSSSpSRRpRpppSSSSR S0.50 p0.30 R0.20 mean=1.27 islands=7 enclosedWater=0
+r3_before_500km_seed90210_tilt.png                           rough=RSRSSpSpRSRRRRpSSSpR S0.40 p0.20 R0.40 mean=1.40 islands=2 enclosedWater=0
+r3_before_sizes_1000km_seed42_tilt_fullscreen1920x1080.png   rough=SpRSRSSpRpSppRSpSSSRSSSSSppSpR S0.50 p0.30 R0.20 mean=1.29 islands=3 enclosedWater=0
+r3_before_sizes_1000km_seed42_tilt_w1000x1000.png            rough=pRRSpSRpSSpRRRR S0.27 p0.27 R0.47 mean=2.61 islands=4 enclosedWater=30 sizes=[28, 95, 95, 133, 133]
+r3_before_sizes_1000km_seed42_tilt_w1280x800.png             rough=SRRpSRSpRppSpSSSpSpp S0.40 p0.40 R0.20 mean=1.27 islands=4 enclosedWater=0
+r3_before_sizes_1000km_seed42_tilt_w1600x700.png             rough=SRSRSSpRSpRRpSSSpSSSppppR S0.44 p0.32 R0.24 mean=1.30 islands=3 enclosedWater=0
+r3_before_sizes_200km_seed42_tilt_fullscreen1920x1080.png    rough=SSpSSSSRpSpSSSpSRRSRppSSppSRpR S0.50 p0.30 R0.20 mean=1.27 islands=10 enclosedWater=0
+r3_before_sizes_200km_seed42_tilt_w1000x1000.png             rough=SSSSpSSSRSRRRRR S0.53 p0.07 R0.40 mean=2.80 islands=4 enclosedWater=30 sizes=[28, 95, 95, 133, 133]
+r3_before_sizes_200km_seed42_tilt_w1280x800.png              rough=SSSSSRSSSpSRpRSSSppR S0.60 p0.20 R0.20 mean=1.31 islands=5 enclosedWater=0
+r3_before_sizes_200km_seed42_tilt_w1600x700.png              rough=SSSSSSppSSSSppRSRpSSSpppR S0.56 p0.32 R0.12 mean=1.27 islands=8 enclosedWater=0
