@@ -1,0 +1,498 @@
+{
+ "div_1000": {
+  "first load": {
+   "median": 6206,
+   "n": 5
+  },
+  "New coast": {
+   "median": 6192,
+   "n": 5
+  },
+  "Random dots (Tilt)": {
+   "median": 4955,
+   "n": 5
+  },
+  "Tilt drag preview frame": {
+   "median": 30.9,
+   "n": 30
+  },
+  "release dot (Tilt)": {
+   "median": 4705,
+   "n": 5
+  },
+  "switch to Points": {
+   "median": 4880,
+   "n": 5
+  },
+  "Random dots (Points)": {
+   "median": 4409,
+   "n": 6
+  },
+  "release dot (Points)": {
+   "median": 4459,
+   "n": 5
+  },
+  "switch to Tilt": {
+   "median": 4781,
+   "n": 5
+  },
+  "mode: Peninsula": {
+   "median": 4180,
+   "n": 5
+  },
+  "mode: Inland sea": {
+   "median": 5274,
+   "n": 5
+  },
+  "mode: Coast": {
+   "median": 4510,
+   "n": 5
+  },
+  "switch character to this": {
+   "median": 4262,
+   "n": 5
+  },
+  "change width to this": {
+   "median": 4148,
+   "n": 5
+  },
+  "window resize (incl. 150 ms debounce)": {
+   "median": 4674,
+   "n": 5
+  }
+ },
+ "div_500": {
+  "first load": {
+   "median": 6909,
+   "n": 5
+  },
+  "New coast": {
+   "median": 5370,
+   "n": 5
+  },
+  "Random dots (Tilt)": {
+   "median": 5145,
+   "n": 5
+  },
+  "Tilt drag preview frame": {
+   "median": 31.9,
+   "n": 30
+  },
+  "release dot (Tilt)": {
+   "median": 4994,
+   "n": 5
+  },
+  "switch to Points": {
+   "median": 4545,
+   "n": 5
+  },
+  "Random dots (Points)": {
+   "median": 4726,
+   "n": 6
+  },
+  "release dot (Points)": {
+   "median": 4676,
+   "n": 5
+  },
+  "switch to Tilt": {
+   "median": 4841,
+   "n": 5
+  },
+  "mode: Peninsula": {
+   "median": 4851,
+   "n": 5
+  },
+  "mode: Inland sea": {
+   "median": 5605,
+   "n": 5
+  },
+  "mode: Coast": {
+   "median": 4759,
+   "n": 5
+  },
+  "switch character to this": {
+   "median": 4748,
+   "n": 5
+  },
+  "change width to this": {
+   "median": 4459,
+   "n": 5
+  },
+  "window resize (incl. 150 ms debounce)": {
+   "median": 5097,
+   "n": 5
+  }
+ },
+ "jag_1000": {
+  "first load": {
+   "median": 5825,
+   "n": 5
+  },
+  "New coast": {
+   "median": 4848,
+   "n": 5
+  },
+  "Random dots (Tilt)": {
+   "median": 4364,
+   "n": 5
+  },
+  "Tilt drag preview frame": {
+   "median": 30.5,
+   "n": 30
+  },
+  "release dot (Tilt)": {
+   "median": 4295,
+   "n": 5
+  },
+  "switch to Points": {
+   "median": 4208,
+   "n": 5
+  },
+  "Random dots (Points)": {
+   "median": 4335,
+   "n": 6
+  },
+  "release dot (Points)": {
+   "median": 3996,
+   "n": 5
+  },
+  "switch to Tilt": {
+   "median": 4159,
+   "n": 5
+  },
+  "mode: Peninsula": {
+   "median": 4372,
+   "n": 5
+  },
+  "mode: Inland sea": {
+   "median": 4635,
+   "n": 5
+  },
+  "mode: Coast": {
+   "median": 4456,
+   "n": 5
+  },
+  "switch character to this": {
+   "median": 4338,
+   "n": 5
+  },
+  "change width to this": {
+   "median": 4178,
+   "n": 5
+  },
+  "window resize (incl. 150 ms debounce)": {
+   "median": 4708,
+   "n": 5
+  }
+ },
+ "div_200": {
+  "first load": {
+   "median": 5941,
+   "n": 5
+  },
+  "New coast": {
+   "median": 5211,
+   "n": 5
+  },
+  "Random dots (Tilt)": {
+   "median": 4609,
+   "n": 5
+  },
+  "Tilt drag preview frame": {
+   "median": 29.6,
+   "n": 30
+  },
+  "release dot (Tilt)": {
+   "median": 4860,
+   "n": 5
+  },
+  "switch to Points": {
+   "median": 4533,
+   "n": 5
+  },
+  "Random dots (Points)": {
+   "median": 4316.5,
+   "n": 6
+  },
+  "release dot (Points)": {
+   "median": 4575,
+   "n": 5
+  },
+  "switch to Tilt": {
+   "median": 4268,
+   "n": 5
+  },
+  "mode: Peninsula": {
+   "median": 4855,
+   "n": 5
+  },
+  "mode: Inland sea": {
+   "median": 5837,
+   "n": 5
+  },
+  "mode: Coast": {
+   "median": 4994,
+   "n": 5
+  },
+  "switch character to this": {
+   "median": 4594,
+   "n": 5
+  },
+  "change width to this": {
+   "median": 4834,
+   "n": 5
+  },
+  "window resize (incl. 150 ms debounce)": {
+   "median": 5506,
+   "n": 5
+  }
+ },
+ "jag_500": {
+  "first load": {
+   "median": 5756,
+   "n": 5
+  },
+  "New coast": {
+   "median": 5437,
+   "n": 5
+  },
+  "Random dots (Tilt)": {
+   "median": 4445,
+   "n": 5
+  },
+  "Tilt drag preview frame": {
+   "median": 36.1,
+   "n": 30
+  },
+  "release dot (Tilt)": {
+   "median": 4480,
+   "n": 5
+  },
+  "switch to Points": {
+   "median": 4397,
+   "n": 5
+  },
+  "Random dots (Points)": {
+   "median": 4302.5,
+   "n": 6
+  },
+  "release dot (Points)": {
+   "median": 4142,
+   "n": 5
+  },
+  "switch to Tilt": {
+   "median": 4363,
+   "n": 5
+  },
+  "mode: Peninsula": {
+   "median": 4356,
+   "n": 5
+  },
+  "mode: Inland sea": {
+   "median": 5017,
+   "n": 5
+  },
+  "mode: Coast": {
+   "median": 4334,
+   "n": 5
+  },
+  "switch character to this": {
+   "median": 4673,
+   "n": 5
+  },
+  "change width to this": {
+   "median": 4122,
+   "n": 5
+  },
+  "window resize (incl. 150 ms debounce)": {
+   "median": 4872,
+   "n": 5
+  }
+ },
+ "jag_200": {
+  "first load": {
+   "median": 5846,
+   "n": 5
+  },
+  "New coast": {
+   "median": 5100,
+   "n": 5
+  },
+  "Random dots (Tilt)": {
+   "median": 4724,
+   "n": 5
+  },
+  "Tilt drag preview frame": {
+   "median": 35.4,
+   "n": 30
+  },
+  "release dot (Tilt)": {
+   "median": 2655,
+   "n": 5
+  },
+  "switch to Points": {
+   "median": 4329,
+   "n": 5
+  },
+  "Random dots (Points)": {
+   "median": 4453,
+   "n": 6
+  },
+  "release dot (Points)": {
+   "median": 4425,
+   "n": 5
+  },
+  "switch to Tilt": {
+   "median": 4324,
+   "n": 5
+  },
+  "mode: Peninsula": {
+   "median": 4810,
+   "n": 5
+  },
+  "mode: Inland sea": {
+   "median": 5171,
+   "n": 5
+  },
+  "mode: Coast": {
+   "median": 4580,
+   "n": 5
+  },
+  "switch character to this": {
+   "median": 4904,
+   "n": 5
+  },
+  "change width to this": {
+   "median": 4324,
+   "n": 5
+  },
+  "window resize (incl. 150 ms debounce)": {
+   "median": 4742,
+   "n": 5
+  }
+ },
+ "grd_1000": {
+  "first load": {
+   "median": 13673,
+   "n": 5
+  },
+  "New coast": {
+   "median": 12523,
+   "n": 5
+  },
+  "Random dots (Tilt)": {
+   "median": 11438,
+   "n": 5
+  },
+  "Tilt drag preview frame": {
+   "median": 29.8,
+   "n": 30
+  },
+  "release dot (Tilt)": {
+   "median": 11172,
+   "n": 5
+  },
+  "switch to Points": {
+   "median": 11237,
+   "n": 5
+  },
+  "Random dots (Points)": {
+   "median": 12028.5,
+   "n": 6
+  },
+  "release dot (Points)": {
+   "median": 11564,
+   "n": 5
+  },
+  "switch to Tilt": {
+   "median": 11351,
+   "n": 5
+  },
+  "mode: Peninsula": {
+   "median": 4932,
+   "n": 5
+  },
+  "mode: Inland sea": {
+   "median": 5871,
+   "n": 5
+  },
+  "mode: Coast": {
+   "median": 12143,
+   "n": 5
+  },
+  "switch character to this": {
+   "median": 12012,
+   "n": 5
+  },
+  "change width to this": {
+   "median": 11367,
+   "n": 5
+  },
+  "window resize (incl. 150 ms debounce)": {
+   "median": 11334,
+   "n": 5
+  }
+ },
+ "grd_500": {
+  "first load": {
+   "median": 13291,
+   "n": 5
+  },
+  "New coast": {
+   "median": 12393,
+   "n": 5
+  },
+  "Random dots (Tilt)": {
+   "median": 13220,
+   "n": 5
+  },
+  "Tilt drag preview frame": {
+   "median": 30.2,
+   "n": 30
+  },
+  "release dot (Tilt)": {
+   "median": 12813,
+   "n": 5
+  },
+  "switch to Points": {
+   "median": 12676,
+   "n": 5
+  },
+  "Random dots (Points)": {
+   "median": 12873.5,
+   "n": 6
+  },
+  "release dot (Points)": {
+   "median": 12440,
+   "n": 5
+  },
+  "switch to Tilt": {
+   "median": 12520,
+   "n": 5
+  },
+  "mode: Peninsula": {
+   "median": 5217,
+   "n": 5
+  },
+  "mode: Inland sea": {
+   "median": 5980,
+   "n": 5
+  },
+  "mode: Coast": {
+   "median": 12924,
+   "n": 5
+  },
+  "switch character to this": {
+   "median": 12688,
+   "n": 5
+  },
+  "change width to this": {
+   "median": 11989,
+   "n": 5
+  },
+  "window resize (incl. 150 ms debounce)": {
+   "median": 12837,
+   "n": 5
+  }
+ }
+}
